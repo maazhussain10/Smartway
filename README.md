@@ -1,5 +1,6 @@
 # Smartway
 A Smarter Means to travel today.
+
 Travelling in streets has always been a hectic task for every individual. Let it be riding a bike, or a car or even by walk. We as individuals end up cursing the government and do not take any step for the future to change. Individuals suffer in finding right place to park their vehicles and end up parking in places which cause more traffic. Apart from normal citizens an ambulance driver has to struggle a lot in order to overcome the traffic in order to save a life.
 
 The streets are not tended properly after any repair is done and this causes the people living near to suffer because of that.
