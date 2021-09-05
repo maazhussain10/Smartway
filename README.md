@@ -10,11 +10,11 @@
        
 ## DEMO VIDEO
 
-[Demo Video](https://youtu.be/HOsI0z0UA7w)
+[![200 Success - Smartway | Digital Innovation Hackathon - Hacker Earth In Association With AWS](http://img.youtube.com/vi/-nXKvC3zqBo/0.jpg)](https://youtu.be/HOsI0z0UA7w "200 Success - Smartway | Digital Innovation Hackathon - Hacker Earth In Association With AWS")
 
 ## ELEVATOR PITCH VIDEO
 
-[Elevator Pitch Video](https://youtu.be/5N6C9HHJhDc)
+##[Elevator Pitch Video](https://youtu.be/5N6C9HHJhDc)
 
 ## **PROBLEM STATEMENT**
 
