@@ -2,6 +2,19 @@
 
 > ## A smarter means to travel today
 
+## TEAM MEMBERS
+            1) Maaz Hussain
+            2) Lokeshwar
+            3) Megaraj
+            4) Ashik Eswar
+       
+## DEMO VIDEO
+
+[Demo Video](https://youtu.be/HOsI0z0UA7w)
+
+## ELEVATOR PITCH VIDEO
+
+[Elevator Pitch Video](https://youtu.be/5N6C9HHJhDc)
 
 ## **PROBLEM STATEMENT**
 
@@ -50,5 +63,10 @@
 
 * The public will be able to raise issues relating to the locality they are and can tag the department responsible for it and thus the department officials will receive a message about it and will have to resolve the case accordingly.
 
+## **FLOWCHART**
 ![FlowChart](https://user-images.githubusercontent.com/61106740/132129718-376c0419-d0ea-441d-b369-b3a0529e3ff6.jpg)
+
+## **PROTOTYPE DEMO LINK**
+
+![](https://xd.adobe.com/view/f8c8c5cf-e258-4bc2-ab3c-aa016088ef1e-ad9b/)
 
