@@ -1,6 +1,6 @@
 #  SmartWay
 
-## > A smarter means to travel today
+> ## A smarter means to travel today
 
 
 ## **PROBLEM STATEMENT**
