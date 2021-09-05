@@ -10,7 +10,7 @@
        
 ## DEMO VIDEO
 
-[![200 Success - Smartway | Digital Innovation Hackathon - Hacker Earth In Association With AWS](http://img.youtube.com/vi/-nXKvC3zqBo/0.jpg)](https://youtu.be/HOsI0z0UA7w "200 Success - Smartway | Digital Innovation Hackathon - Hacker Earth In Association With AWS")
+[![200 Success - Smartway | Digital Innovation Hackathon - Hacker Earth In Association With AWS](https://i9.ytimg.com/vi/HOsI0z0UA7w/mq1.jpg?sqp=COio04kG&rs=AOn4CLD8tWd9jTUfxVK5qFL9vAe27unsXg)](https://youtu.be/HOsI0z0UA7w "200 Success - Smartway | Digital Innovation Hackathon - Hacker Earth In Association With AWS")
 
 ## ELEVATOR PITCH VIDEO
 
