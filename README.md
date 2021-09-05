@@ -50,3 +50,5 @@
 
 * The public will be able to raise issues relating to the locality they are and can tag the department responsible for it and thus the department officials will receive a message about it and will have to resolve the case accordingly.
 
+![FlowChart](https://user-images.githubusercontent.com/61106740/132129718-376c0419-d0ea-441d-b369-b3a0529e3ff6.jpg)
+
