@@ -14,7 +14,7 @@
 
 ## ELEVATOR PITCH VIDEO
 
-##[Elevator Pitch Video](https://youtu.be/5N6C9HHJhDc)
+[![Elevator Pitch Video for Smartway | Digital Innovation Hackathon Association with AWS](https://i9.ytimg.com/vi/5N6C9HHJhDc/mq2.jpg?sqp=COyv04kG&rs=AOn4CLD6rh0ltGw3soOcYpo-9Skcrn-gRA)](https://youtu.be/5N6C9HHJhDc "Elevator Pitch Video for Smartway | Digital Innovation Hackathon Association with AWS")
 
 ## **PROBLEM STATEMENT**
 
@@ -68,5 +68,5 @@
 
 ## **PROTOTYPE DEMO LINK**
 
-![](https://xd.adobe.com/view/f8c8c5cf-e258-4bc2-ab3c-aa016088ef1e-ad9b/)
+![![Splash Screen](https://user-images.githubusercontent.com/61106740/132131085-edbd1adf-4994-4c96-a25f-22baac3a9c7d.jpg)](https://xd.adobe.com/view/f8c8c5cf-e258-4bc2-ab3c-aa016088ef1e-ad9b/)
 
