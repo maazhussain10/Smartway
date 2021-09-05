@@ -68,5 +68,6 @@
 
 ## **PROTOTYPE DEMO LINK**
 
-![![Splash Screen](https://user-images.githubusercontent.com/61106740/132131085-edbd1adf-4994-4c96-a25f-22baac3a9c7d.jpg)](https://xd.adobe.com/view/f8c8c5cf-e258-4bc2-ab3c-aa016088ef1e-ad9b/)
+[![Splash Screen](https://user-images.githubusercontent.com/61106740/132131085-edbd1adf-4994-4c96-a25f-22baac3a9c7d.jpg)](https://xd.adobe.com/view/f8c8c5cf-e258-4bc2-ab3c-aa016088ef1e-ad9b/ "Splash Screen")
+
 
